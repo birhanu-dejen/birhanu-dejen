@@ -7,7 +7,6 @@ My passion lies in engineering seamless user experiences that resonate with end 
 
 ## 🌐 Socials:
 
-[![Birhanu]]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhanu-dejen/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0127deac290a5cccb2)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/birhanu_dejen)
