@@ -1,3 +1,4 @@
+<img src="banner.png" alt="banner">
 # 👋 Hey, I am BIRHANU DEJEN
 
 
