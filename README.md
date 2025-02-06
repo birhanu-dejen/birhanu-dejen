@@ -7,7 +7,7 @@ As a Full-Stack  Engineer based in the vibrant city of Addis Ababa, Ethiopia,  P
 My passion lies in engineering seamless user experiences that resonate with end users. With a relentless curiosity for emerging technologies, I am eager to explore innovative projects both remotely and in-person around the globe. If you’re seeking a dedicated engineer ready to make a significant impact on your team, don’t hesitate to reach out!
 
 ## 🌐 Socials:
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=website&logoColor=white)](https://birhanudejen.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birhanu-dejen/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0127deac290a5cccb2)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/birhanu_dejen)
