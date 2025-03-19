@@ -2,7 +2,7 @@
 # 👋 Hey, I am BIRHANU DEJEN
 
 
-As a Full-Stack  Engineer based in the vibrant city of Addis Ababa, Ethiopia,  Proficient in a diverse array of technologies including TypeScript, JavaScript, React, React Native, Node.js, and databases like PostgreSQL and MongoDB, I thrive on transforming complex challenges into elegant solutions.
+As a Full-Stack  Engineer based in the vibrant city of Addis Ababa, Ethiopia,  Proficient in a diverse array of technologies including TypeScript, JavaScript, React, React Native, Node.js, Next.js and databases like PostgreSQL and MongoDB, I thrive on transforming complex challenges into elegant solutions.
 
 My passion lies in engineering seamless user experiences that resonate with end users. With a relentless curiosity for emerging technologies, I am eager to explore innovative projects both remotely and in-person around the globe. If you’re seeking a dedicated engineer ready to make a significant impact on your team, don’t hesitate to reach out!
 
@@ -18,6 +18,7 @@ My passion lies in engineering seamless user experiences that resonate with end 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
